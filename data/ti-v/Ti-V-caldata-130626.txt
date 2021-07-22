@@ -1,0 +1,7 @@
+FileName:	Ti-V											
+Author:	Vikas											
+Format:-----------------------------------------------------------												
+DataId	DataType            y           yMod	sig(Y)      Wt.     x       x1          x2      References			
+#************************START#												
+1       TDP-A2-T-1    0.0         0.0     0.0         1.0     0.0     1500.0      0.0     -
+#************************STOP#

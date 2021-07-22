@@ -1,0 +1,13 @@
+System: 		Ti-V
+File Name: 		PhaseData.txt
+Author:			Vikas
+Version:		201006
+Compatible with:	expcvm.05	
+			
+PId-Ins	Linked_PID  CompA	compB	Database	np	Multiplicity			Boolean-iaint		ECIs			ematFileName 
+#************************START#									
+A2-T-1	-		Ti	V	sgte		8	6,12,3,4,1			0,0,0,1,0,0,0,1		0,-43.59,0,-669.28,0,0,0,0.1666	EmatBCCmTBIN.txt
+A3-TO-1	-		Ti	V	sgte		26	1,6,3,6,6,2,1,12,1,6,3,3,3,1	0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0	0,0,0,0,0,0,0,0,0,0,0,0,-614.35,0,0,0,0,0,0,0,0,0,0,0,0,0	EmatCPHmTOBIN.txt
+L-RK-1	-		Ti	V	sgte		4	0,0,0,0				1,1,0,0			2101.49,0,0,0	EmatRKBIN.txt
+#************************STOP#
+

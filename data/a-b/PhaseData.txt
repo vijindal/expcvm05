@@ -1,0 +1,8 @@
+FileName: 	A-B-BCC-PhaseData.txt
+Author	:	VJ
+Format:--------------------------------------------------------------------------- 
+PId		ElmA    ElmB	Database	np      Multiplicity	Boolean-iaint		ECIs 					Emat File
+#************************START#
+A2-T-0  -   Ta     	Ti       sgte		8	6,12,3,4,1    	1,1,1,1,0,0,0,0         0.0,0.0,0.0,-2000.0,0.0,0,0.0,0       EmatBCCmTBIN.txt
+#************************STOP#
+A2-T-0  -   Ta     	Ti       sgte		8	6,12,3,4,1    	1,1,1,1,0,0,0,0         0.0,0.0,-666.6667,-1000.0,0.0,0,0.0,0       EmatBCCmTBIN.txt

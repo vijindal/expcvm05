@@ -1,0 +1,15 @@
+- settle ecdis (and evdis)
+- settle array copy in get and set methods
+- exptdata.check : more checks to be added for exptdata input file
+- impliment dilute solution
+- merge emat files with PhaseData files; read these files through readPhaseData method  
+- Magnetic contribution to be added using 1978-Mats Hillert, Magnus Jarl model
+- ordered phases to be handelled along with its corresponding disordered phase, all paramteres of the ordered phase to be read from disordered phase. During optimization, only CECs of disordered are to be changed.
+1. Transmat to be removed, cMatrix to be merged with phase java codes and transmat with input files
+2. Consistancy of phasedata and exptdata file, need a module to check mutual consistancy 
+
+-opencalphad has single input file for optimization which contains:
+1. no of optimizing coefficient 
+2. pure element gibbs functions 
+3. phase information: model, elements, model parameters (this is better way to enter model paramters, requires information about only non-zero (active) paramters, rest are assumed to be zero (inactive))
+  
